@@ -31,8 +31,8 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |JavaScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/JavaScript)|
 |Kotlin|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Kotlin)|
 |PHP|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
-|Python|[Click Here](https://github.com/Lavin-tom/Hello-World/main/Python)|
-|Ruby|[Click Here](https://github.com/Lavin-tom/Hello-World/main/Ruby)|
-|Rust|[Click Here](https://github.com/Lavin-tom/Hello-World/main/Rust)|
-|SQL|[Click Here](https://github.com/Lavin-tom/Hello-World/main/SQL)|
-|Swift|[Click Here](https://github.com/Lavin-tom/Hello-World/main/Swift)|
+|Python|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
+|Ruby|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ruby)|
+|Rust|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Rust)|
+|SQL|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
+|Swift|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Swift)|
