@@ -15,23 +15,32 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 15
+## Total Language Covered - 24
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
 
 ### Languages Covered
 |Language|Link to code|
 |-|-|
+|Bash|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Bash)|
 |C|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C)|
 |C++|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C++)|
 |C#|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C#)|
+|Cobol|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Cobol)|
 |Dart|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Dart)|
+|Fortran|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Fortran)|
 |Go|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Go)|
 |HTML|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/HTML)|
 |Java|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Java)|
 |JavaScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/JavaScript)|
 |Kotlin|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Kotlin)|
+|Lua|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Lua)|
+|Matlab|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Matlab)|
+|OCaml|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/OCaml)|
+|Pascal|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Pascal)|
+|Perl|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Perl)|
 |PHP|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
 |Python|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
+|R|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/R)|
 |Ruby|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ruby)|
 |Rust|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Rust)|
 |SQL|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
