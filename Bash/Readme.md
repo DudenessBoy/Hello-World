@@ -6,3 +6,7 @@ Bash is a Unix shell and command language written by Brian Fox for the GNU Proje
 |_Developer_|Brian Fox|
 |_First appeared_|1989|
 |_Filename extension_|.bash|
+
+
+```bash
+echo "Hello World";
