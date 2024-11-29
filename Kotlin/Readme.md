@@ -6,3 +6,9 @@ Kotlin is a cross-platform, statically typed, general-purpose high-level program
 |_Developer_|JetBrains|
 |_First appeared_|2011|
 |_Filename extension_|.kt|
+
+```HelloWorld.kt 
+fun main(args : Array<String>)
+{
+    println("Hello, World!")
+}

@@ -6,3 +6,6 @@ Lua is a lightweight, high-level, multi-paradigm programming language designed p
 |_Developer_|Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo|
 |_First appeared_|1993|
 |_Filename extension_|.lua|
+
+```HelloWorld.lua
+print("Hello World")

@@ -6,3 +6,7 @@ Python is a high-level, general-purpose programming language. Its design philoso
 |_Developer_|Guido Van Rossum|
 |_First appeared_|1991|
 |_Filename extension_|.py|
+
+```HelloWorld.py 
+# Python 3 version
+print('Hello World')

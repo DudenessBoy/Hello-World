@@ -6,3 +6,7 @@ SQL (Structured Query Language) is a standard language used for managing and man
 |_Developer_|Donald D Chamberlin and Raymond F Boyce|
 |_First appeared_|1974|
 |_Filename extension_|.sql|
+
+```HelloWorld.sql
+SELECT 'Hello World';
+PRINT 'Hello World';

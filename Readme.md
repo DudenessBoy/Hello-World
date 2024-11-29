@@ -15,25 +15,34 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 24
+## Total Language Covered - 36
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
 
 ### Languages Covered
 |Language|Link to code|
 |-|-|
+|Ada|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ada)|
+|AppleScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/AppleScript)|
 |Bash|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Bash)|
+|Brainfuck|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Brainfuck)|
 |C|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C)|
 |C++|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C++)|
 |C#|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C#)|
 |Cobol|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Cobol)|
+|COOL|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/COOL)|
+|CSS|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/CSS)|
 |Dart|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Dart)|
+|F#|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/F#)|
 |Fortran|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Fortran)|
 |Go|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Go)|
 |HTML|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/HTML)|
 |Java|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Java)|
 |JavaScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/JavaScript)|
+|jQuery|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/jQuery)|
 |Kotlin|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Kotlin)|
+|LOLCODE|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/LOLCODE)|
 |Lua|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Lua)|
+|Markdown|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Markdown)|
 |Matlab|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Matlab)|
 |OCaml|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/OCaml)|
 |Pascal|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Pascal)|
@@ -41,7 +50,10 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |PHP|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
 |Python|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
 |R|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/R)|
+|ReactJS|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ReactJS)|
 |Ruby|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ruby)|
 |Rust|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Rust)|
+|Scheme|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Scheme)|
 |SQL|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
 |Swift|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Swift)|
+|Verilog|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Verilog)|

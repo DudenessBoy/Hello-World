@@ -6,3 +6,9 @@ Rust is a system programming language developed by a Mozilla employee "Graydon H
 |_Developer_|Graydon Hoare|
 |_First appeared_|2006|
 |_Filename extension_|.rs|
+
+```HelloWorld.rs
+fn main()
+{
+    println!("Hello World")
+}

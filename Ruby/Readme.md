@@ -6,3 +6,6 @@ Ruby is an interpreted, high-level, general-purpose programming language which s
 |_Developer_|Yukihiro Matsumoto|
 |_First appeared_|1995|
 |_Filename extension_|.rb|
+
+```HelloWorld.rb
+print "Hello World"

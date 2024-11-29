@@ -6,3 +6,12 @@ C++ is a general-purpose object-oriented programming (OOP) language, developed b
 |_Developer_|Bjarne Stroustrup|
 |_First appeared_|1985|
 |_Filename extension_|.cpp|
+
+```HelloWorld.cpp
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello World"<<endl;
+    return 0;
+}

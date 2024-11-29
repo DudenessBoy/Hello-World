@@ -6,3 +6,9 @@ Dart is a general-purpose programming language originally developed by Google an
 |_Developer_|Lars Bak, Kasper Lund for Google|
 |_First appeared_|2011|
 |_Filename extension_|.dart|
+
+```HelloWorld.dart
+void main()
+{
+    print('Hello World');
+}

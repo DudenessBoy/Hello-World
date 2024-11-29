@@ -7,7 +7,7 @@ C is a high-level and general-purpose programming language that is ideal for dev
 |_First appeared_|1972|
 |_Filename extension_|.c|
 
-```C
+```HelloWorld.c
 #include<stdio.h>
 int main()
 {

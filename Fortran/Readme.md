@@ -7,3 +7,8 @@ Fortran was originally developed by IBM in the 1950s for scientific and engineer
 |_Developer_|John Backus and IBM|
 |_First appeared_|1957|
 |_Filename extension_|.f95|
+
+```HelloWorld.f95
+Program HelloWorld
+Print *, "Hello World"
+End Program HelloWorld

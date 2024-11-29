@@ -6,3 +6,6 @@ JavaScript, often abbreviated as JS, is a programming language that is one of th
 |_Developer_|Brendan Eich|
 |_First appeared_|1995|
 |_Filename extension_|.js|
+
+```HelloWorld.js 
+console.log("Hello World");

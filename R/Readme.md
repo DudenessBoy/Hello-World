@@ -6,3 +6,6 @@ R is a programming language for statistical computing and graphics supported by 
 |_Developer_|Ross Ihaka and Robert Gentleman|
 |_First appeared_|1993|
 |_Filename extension_|.r|
+
+```HelloWorld.r
+print("Hello World")

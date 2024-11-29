@@ -8,5 +8,5 @@ Bash is a Unix shell and command language written by Brian Fox for the GNU Proje
 |_Filename extension_|.bash|
 
 
-```bash
+```HelloWorld.bash
 echo "Hello World";

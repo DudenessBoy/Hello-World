@@ -6,3 +6,12 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 |_Developer_|James Gosling|
 |_First appeared_|1995|
 |_Filename extension_|.java|
+
+```HelloWorld.java 
+class Main
+{
+    public static void main(String args[])
+    {
+      System.out.print("Hello World");
+    }
+}

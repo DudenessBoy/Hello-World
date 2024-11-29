@@ -6,3 +6,13 @@ C# is a general-purpose high-level programming language supporting multiple para
 |_Developer_|Anders Hejisberg|
 |_First appeared_|2000|
 |_Filename extension_|.cs|
+
+```.cs
+using System;
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello World");
+    }
+}

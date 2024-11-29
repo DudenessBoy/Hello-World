@@ -6,3 +6,12 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 |_Developer_|Robert Griesemer, Rob Pike, and Ken Thompson for Google|
 |_First appeared_|2009|
 |_Filename extension_|.go|
+
+```HelloWorld.go
+package main
+
+import ("fmt")
+
+func main() {
+	fmt.Println("Hello World")
+}

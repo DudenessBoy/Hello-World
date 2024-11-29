@@ -6,3 +6,9 @@ Pascal is a procedural programming language that was designed by Niklaus Wirth i
 |_Developer_|Niklaus Wirth|
 |_First appeared_|1970|
 |_Filename extension_|.pas|
+
+```HelloWorld.pas 
+program HelloWorld;
+begin
+  writeln ('Hello World')
+end.

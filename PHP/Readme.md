@@ -6,3 +6,7 @@ PHP is a general-purpose scripting language geared towards web development. It w
 |_Developer_|PHP Development Team|
 |_First appeared_|1995|
 |_Filename extension_|.php|
+
+```HelloWorld.php
+<?php
+echo 'Hello World';

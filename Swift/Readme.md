@@ -6,3 +6,6 @@ Swift is a general-purpose, multi-paradigm, compiled programming language that w
 |_Developer_|Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc|
 |_First appeared_|2014|
 |_Filename extension_|.swift|
+
+```HelloWorld.swift
+print("Hello World!")
