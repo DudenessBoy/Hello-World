@@ -15,7 +15,7 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 36
+## Total Language Covered - 37
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
 
 ### Languages Covered
@@ -54,6 +54,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |Ruby|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ruby)|
 |Rust|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Rust)|
 |Scheme|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Scheme)|
+|Skip|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Skip)|
 |SQL|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
 |Swift|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Swift)|
 |Verilog|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Verilog)|
