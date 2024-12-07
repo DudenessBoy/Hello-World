@@ -15,8 +15,11 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 37
+## Total Language Covered - 38
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
+
+## Wikipedia 
+### [List of programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
 
 ### Languages Covered
 |Language|Link to code|
@@ -47,6 +50,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |OCaml|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/OCaml)|
 |Pascal|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Pascal)|
 |Perl|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Perl)|
+|PureScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PureScript)|
 |PHP|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
 |Python|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
 |R|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/R)|
