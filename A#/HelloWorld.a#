@@ -1,0 +1,8 @@
+// HelloWorld program in A# (ASharp)
+open System
+
+let main() =
+    printfn "Hello, World!"
+    
+// Call the main function to execute the program
+main()
