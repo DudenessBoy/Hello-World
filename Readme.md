@@ -15,7 +15,7 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 39
+## Total Language Covered - 40
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
 
 ## Wikipedia 
@@ -25,6 +25,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |Language|Link to code|
 |-|-|
 |A#|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/A#)|
+|A-0|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/A-0)|
 |Ada|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ada)|
 |AppleScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/AppleScript)|
 |Bash|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Bash)|
