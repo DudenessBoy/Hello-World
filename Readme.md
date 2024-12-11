@@ -15,53 +15,54 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 41
+## Total Language Covered - 42
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
 
 ## Wikipedia 
-### [List of programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
+### [List of programming languages- Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages)
 
 ### Languages Covered
 |Language|Link to code|
 |-|-|
-|A#|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/A#)|
-|A-0|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/A-0)|
-|ABAP|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ABAP)|
-|Ada|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ada)|
-|AppleScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/AppleScript)|
-|Bash|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Bash)|
-|Brainfuck|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Brainfuck)|
-|C|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C)|
-|C++|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C++)|
-|C#|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C#)|
-|Cobol|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Cobol)|
+|[A#](https://en.wikipedia.org/wiki/A_Sharp_(.NET))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/A#)|
+|[A-0](https://en.wikipedia.org/wiki/A-0_System)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/A-0)|
+|[ABAP](https://en.wikipedia.org/wiki/ABAP)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ABAP)|
+|[ABC](https://en.wikipedia.org/wiki/ABC_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ABC)|
+|[Ada](https://en.wikipedia.org/wiki/Ada_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ada)|
+|[AppleScript](https://en.wikipedia.org/wiki/AppleScript)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/AppleScript)|
+|[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Bash)|
+|[Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Brainfuck)|
+|[C](https://en.wikipedia.org/wiki/C_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C)|
+|[C++](https://en.wikipedia.org/wiki/C%2B%2B)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C++)|
+|[C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/C#)|
+|[Cobol](https://en.wikipedia.org/wiki/COBOL)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Cobol)|
 |COOL|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/COOL)|
-|CSS|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/CSS)|
-|Dart|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Dart)|
-|F#|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/F#)|
-|Fortran|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Fortran)|
-|Go|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Go)|
-|HTML|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/HTML)|
-|Java|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Java)|
-|JavaScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/JavaScript)|
-|jQuery|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/jQuery)|
-|Kotlin|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Kotlin)|
-|LOLCODE|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/LOLCODE)|
-|Lua|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Lua)|
-|Markdown|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Markdown)|
-|Matlab|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Matlab)|
-|OCaml|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/OCaml)|
-|Pascal|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Pascal)|
-|Perl|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Perl)|
-|PureScript|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PureScript)|
-|PHP|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
-|Python|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
-|R|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/R)|
-|ReactJS|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ReactJS)|
-|Ruby|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ruby)|
-|Rust|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Rust)|
-|Scheme|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Scheme)|
+|[CSS](https://en.wikipedia.org/wiki/CSS)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/CSS)|
+|[Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Dart)|
+|[F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/F#)|
+|[Fortran](https://en.wikipedia.org/wiki/Fortran)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Fortran)|
+|[Go](https://en.wikipedia.org/wiki/Go_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Go)|
+|[HTML](https://en.wikipedia.org/wiki/HTML)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/HTML)|
+|[Java](https://en.wikipedia.org/wiki/Java_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Java)|
+|[JavaScript](https://en.wikipedia.org/wiki/JavaScript)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/JavaScript)|
+|[jQuery](https://en.wikipedia.org/wiki/JQuery)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/jQuery)|
+|[Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Kotlin)|
+|[LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/LOLCODE)|
+|[Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Lua)|
+|[Markdown](https://en.wikipedia.org/wiki/Markdown)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Markdown)|
+|[MATLAB](https://en.wikipedia.org/wiki/MATLAB)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Matlab)|
+|[OCaml](https://en.wikipedia.org/wiki/OCaml)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/OCaml)|
+|[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Pascal)|
+|d[Perl](https://en.wikipedia.org/wiki/Perl)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Perl)|
+|[PureScript](https://en.wikipedia.org/wiki/PureScript)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PureScript)|
+|[PHP](https://en.wikipedia.org/wiki/PHP)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
+|[Python](https://en.wikipedia.org/wiki/Python_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
+|[R](https://en.wikipedia.org/wiki/R_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/R)|
+|[ReactJS](https://en.wikipedia.org/wiki/React_(software))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ReactJS)|
+|[Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ruby)|
+|[Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Rust)|
+|[Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Scheme)|
 |Skip|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Skip)|
-|SQL|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
-|Swift|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Swift)|
-|Verilog|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Verilog)|
+|[SQL](https://en.wikipedia.org/wiki/SQL)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
+|[Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Swift)|
+|[Verilog](https://en.wikipedia.org/wiki/Verilog)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Verilog)|
