@@ -15,7 +15,7 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 42
+## Total Language Covered - 43
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
 
 ## Wikipedia 
@@ -28,6 +28,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |[A-0](https://en.wikipedia.org/wiki/A-0_System)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/A-0)|
 |[ABAP](https://en.wikipedia.org/wiki/ABAP)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ABAP)|
 |[ABC](https://en.wikipedia.org/wiki/ABC_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ABC)|
+|[ACC](https://en.wikipedia.org/wiki/ABC_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ACC)|
 |[Ada](https://en.wikipedia.org/wiki/Ada_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ada)|
 |[AppleScript](https://en.wikipedia.org/wiki/AppleScript)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/AppleScript)|
 |[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Bash)|
@@ -53,7 +54,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |[MATLAB](https://en.wikipedia.org/wiki/MATLAB)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Matlab)|
 |[OCaml](https://en.wikipedia.org/wiki/OCaml)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/OCaml)|
 |[Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Pascal)|
-|d[Perl](https://en.wikipedia.org/wiki/Perl)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Perl)|
+|[Perl](https://en.wikipedia.org/wiki/Perl)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Perl)|
 |[PureScript](https://en.wikipedia.org/wiki/PureScript)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PureScript)|
 |[PHP](https://en.wikipedia.org/wiki/PHP)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
 |[Python](https://en.wikipedia.org/wiki/Python_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
