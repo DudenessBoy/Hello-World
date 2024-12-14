@@ -4,7 +4,7 @@ Action! is a high-level, structured programming language primarily used for educ
 
 | _Language_            | Action!                              |
 |-----------------------|--------------------------------------|
-| _Developer_           | Jonni S.                             |
+| _Developer_           | Clinton Parker                             |
 | _First appeared_      | 1985                                 |
 | _Filename extension_  | `.act` or `.a`                       |
 
