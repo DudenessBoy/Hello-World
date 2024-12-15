@@ -15,7 +15,7 @@ Whenever we start learning a new programming language, we often begin with a "He
 
 Feel free to contribute and add "Hello, World!" examples in different programming languages.
 
-## Total Language Covered - 44
+## Total Language Covered - 45
 ### This repo was inspired from [Omkar Ajnadkar](https://github.com/blackbird71SR/Hello-World) project `Hello-World`
 
 ## Wikipedia 
@@ -30,6 +30,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |[ABC](https://en.wikipedia.org/wiki/ABC_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ABC)|
 |[ACC](https://en.wikipedia.org/wiki/ACC_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ACC)|
 |[Action!](https://en.wikipedia.org/wiki/Action!_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Action!)|
+|[Actor](https://en.wikipedia.org/wiki/Actor_(programming_language)))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Actor)|
 |[Ada](https://en.wikipedia.org/wiki/Ada_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Ada)|
 |[AppleScript](https://en.wikipedia.org/wiki/AppleScript)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/AppleScript)|
 |[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Bash)|
