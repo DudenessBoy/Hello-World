@@ -59,7 +59,7 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |[Perl](https://en.wikipedia.org/wiki/Perl)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Perl)|
 |[PureScript](https://en.wikipedia.org/wiki/PureScript)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PureScript)|
 |[PHP](https://en.wikipedia.org/wiki/PHP)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PHP)|
-|[Powershell](https://en.wikipedia.org/wiki/PowerShell?wprov=sfla1)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Powershell)|
+|[Powershell](https://en.wikipedia.org/wiki/PowerShell?wprov=sfla1)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/PowerShell|
 |[Python](https://en.wikipedia.org/wiki/Python_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Python)|
 |[R](https://en.wikipedia.org/wiki/R_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/R)|
 |[ReactJS](https://en.wikipedia.org/wiki/React_(software))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/ReactJS)|
