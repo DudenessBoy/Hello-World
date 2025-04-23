@@ -69,4 +69,5 @@ Feel free to contribute and add "Hello, World!" examples in different programmin
 |Skip|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Skip)|
 |[SQL](https://en.wikipedia.org/wiki/SQL)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/SQL)|
 |[Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Swift)|
+|[Unicon](https://en.wikipedia.org/wiki/Verilog)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Unicon)|
 |[Verilog](https://en.wikipedia.org/wiki/Verilog)|[Click Here](https://github.com/Lavin-tom/Hello-World/tree/main/Verilog)|
