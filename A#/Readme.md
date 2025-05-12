@@ -1,4 +1,4 @@
-### A# (ASharp) Language
+ ### A# (ASharp) Language
 A# (also known as ASharp) is a functional programming language designed for the .NET ecosystem, combining elements of functional and object-oriented programming. It is an extension or a variant of the C# language, tailored to support functional programming features, though it still retains compatibility with C# and .NET libraries.
 
 | _Language_         | A# (ASharp)                                      |
